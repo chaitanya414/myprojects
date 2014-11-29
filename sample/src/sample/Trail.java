@@ -10,5 +10,4 @@ public class Trail {
 //		System.out.println("after making some changes");
 		System.out.println("second version changes");
 	}
-
 }
